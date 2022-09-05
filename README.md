@@ -8,7 +8,7 @@ The first piece of software we will install is R, which we will use for our stat
 
 ### Mac Users
 
-1. Download and install [R for Mac](https://cran.rstudio.com/bin/macosx/base/R-4.1.1.pkg)
+1. Download and install [R for Mac](https://cran.rstudio.com/bin/macosx/base/ R-release.pkg)
 
 2. Open your Terminal Application (you’ll find it in the Applications > Utilities folder) and type
 
@@ -18,7 +18,7 @@ The first piece of software we will install is R, which we will use for our stat
 
 ### Windows Users
 
-1. Download and install [R for Windows](https://cran.rstudio.com/bin/windows/base/R-4.1.1-win.exe)
+1. Download and install [R for Windows](https://cran.rstudio.com/bin/macosx/base/R-4.2.1.pkg)
 
 2. Download and install [Rtools for Windows](https://cran.rstudio.com/bin/windows/Rtools/rtools40v2-x86_64.exe)
 
