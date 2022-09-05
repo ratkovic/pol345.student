@@ -18,7 +18,7 @@ The first piece of software we will install is R, which we will use for our stat
 
 ### Windows Users
 
-1. Download and install [R for Windows](https://cran.rstudio.com/bin/macosx/base/R-4.2.1.pkg)
+1. Download and install [R for Windows](https://cran.r-project.org/bin/windows/base/R-4.2.1-win.exe)
 
 2. Download and install [Rtools for Windows](https://cran.rstudio.com/bin/windows/Rtools/rtools42/files/rtools42-5253-5107-signed.exe)
 
